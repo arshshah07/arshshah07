@@ -1,16 +1,26 @@
-## Hi there 👋
+# Arsh Shah
 
-<!--
-**arshshah07/arshshah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Developer & Human Interface Designer**  
+- **Master’s Student in Computer Science**  
+  Dalhousie University
+- **Researcher**  
+  Graphics & Experiential Media (GEM) Lab
+  [gem.cs.dal.ca](https://gem.cs.dal.ca)
 
-Here are some ideas to get you started:
+## Skills & Expertise
+- **Software Development:**  
+  Strong programming background in computer science fundamentals
+- **Human–Computer Interaction (HCI) & UI/UX Design:**  
+  Focus on crafting immersive, user-centered interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights & Focus Areas
+- Active in the Graphics & Experiential Media Lab, exploring:
+  - Spatial interactive interfaces
+  - VR/AR
+  - Innovative human–computer interaction approaches
+
+##  Mission Statement
+I believe great design is invisible—effortless, intuitive, and deeply human. My work is driven by a pursuit of clarity and elegance, crafting immersive experiences where every detail serves a purpose and every interaction feels natural. 
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/arshshah07/)
